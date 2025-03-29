@@ -1,0 +1,231 @@
+2025-03-28 12:13:07,589 - WARNING -  * Debugger is active!
+2025-03-28 12:13:07,593 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:13:46,650 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:13:46,650 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:13:46,651 - INFO -  * Restarting with stat
+2025-03-28 12:13:47,102 - WARNING -  * Debugger is active!
+2025-03-28 12:13:47,106 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:14:22,386 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:14:22,389 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:14:22,391 - INFO -  * Restarting with stat
+2025-03-28 12:14:22,893 - WARNING -  * Debugger is active!
+2025-03-28 12:14:22,897 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:15:51,993 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:15:51,993 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:15:51,995 - INFO -  * Restarting with stat
+2025-03-28 12:15:52,453 - WARNING -  * Debugger is active!
+2025-03-28 12:15:52,455 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:15:59,871 - INFO - 127.0.0.1 - - [28/Mar/2025 12:15:59] "GET / HTTP/1.1" 200 -
+2025-03-28 12:15:59,906 - INFO - 127.0.0.1 - - [28/Mar/2025 12:15:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-28 12:16:21,593 - INFO - 127.0.0.1 - - [28/Mar/2025 12:16:21] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 12:16:21,602 - INFO - 127.0.0.1 - - [28/Mar/2025 12:16:21] "GET / HTTP/1.1" 200 -
+2025-03-28 12:20:26,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:20:26,660 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:20:26,661 - INFO -  * Restarting with stat
+2025-03-28 12:20:26,990 - WARNING -  * Debugger is active!
+2025-03-28 12:20:26,994 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:20:37,778 - INFO - 127.0.0.1 - - [28/Mar/2025 12:20:37] "GET / HTTP/1.1" 200 -
+2025-03-28 12:20:49,715 - INFO - 127.0.0.1 - - [28/Mar/2025 12:20:49] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 12:20:49,723 - INFO - 127.0.0.1 - - [28/Mar/2025 12:20:49] "GET / HTTP/1.1" 200 -
+2025-03-28 12:30:18,515 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:30:18,515 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:30:18,517 - INFO -  * Restarting with stat
+2025-03-28 12:30:18,828 - WARNING -  * Debugger is active!
+2025-03-28 12:30:18,830 - INFO -  * Debugger PIN: 150-142-968
+2025-03-28 12:30:39,173 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:30:39,174 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:30:39,174 - INFO -  * Restarting with stat
+2025-03-28 12:30:39,682 - WARNING -  * Debugger is active!
+2025-03-28 12:30:39,686 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:30:57,935 - INFO - 127.0.0.1 - - [28/Mar/2025 12:30:57] "GET / HTTP/1.1" 200 -
+2025-03-28 12:31:33,426 - INFO - 127.0.0.1 - - [28/Mar/2025 12:31:33] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 12:31:33,436 - INFO - 127.0.0.1 - - [28/Mar/2025 12:31:33] "GET / HTTP/1.1" 200 -
+2025-03-28 12:36:09,746 - INFO -  * Detected change in 'c:\\Users\\VAISHNAVI SHARMA\\Desktop\\email_automation_project\\app.py', reloading
+2025-03-28 12:36:09,823 - INFO -  * Restarting with stat
+2025-03-28 12:36:10,269 - WARNING -  * Debugger is active!
+2025-03-28 12:36:10,273 - INFO -  * Debugger PIN: 150-142-968
+2025-03-28 12:47:22,099 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 12:47:22,099 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 12:47:22,100 - INFO -  * Restarting with stat
+2025-03-28 12:47:22,617 - WARNING -  * Debugger is active!
+2025-03-28 12:47:22,622 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 12:47:34,152 - INFO - 127.0.0.1 - - [28/Mar/2025 12:47:34] "GET / HTTP/1.1" 200 -
+2025-03-28 12:47:36,388 - INFO - 127.0.0.1 - - [28/Mar/2025 12:47:36] "GET / HTTP/1.1" 200 -
+2025-03-28 12:47:46,716 - INFO - 127.0.0.1 - - [28/Mar/2025 12:47:46] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 12:47:46,725 - INFO - 127.0.0.1 - - [28/Mar/2025 12:47:46] "GET / HTTP/1.1" 200 -
+2025-03-28 16:50:39,261 - INFO -  * Detected change in 'c:\\Users\\VAISHNAVI SHARMA\\Desktop\\email_automation_project\\app.py', reloading
+2025-03-28 16:50:39,370 - INFO -  * Restarting with stat
+2025-03-28 16:50:39,828 - WARNING -  * Debugger is active!
+2025-03-28 16:50:39,831 - INFO -  * Debugger PIN: 150-142-968
+2025-03-28 16:50:40,947 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 16:50:40,947 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 16:50:40,948 - INFO -  * Restarting with stat
+2025-03-28 16:50:41,366 - WARNING -  * Debugger is active!
+2025-03-28 16:50:41,370 - INFO -  * Debugger PIN: 150-142-968
+2025-03-28 16:51:25,928 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 16:51:25,929 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 16:51:25,930 - INFO -  * Restarting with stat
+2025-03-28 16:51:26,281 - WARNING -  * Debugger is active!
+2025-03-28 16:51:26,285 - INFO -  * Debugger PIN: 298-383-772
+2025-03-28 16:51:46,194 - ERROR - Failed to send emails. Error: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-73970e1f8c1sm1520052b3a.53 - gsmtp')
+2025-03-28 16:51:46,197 - INFO - 127.0.0.1 - - [28/Mar/2025 16:51:46] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 16:51:46,215 - INFO - 127.0.0.1 - - [28/Mar/2025 16:51:46] "GET / HTTP/1.1" 200 -
+2025-03-28 16:56:36,552 - INFO - 127.0.0.1 - - [28/Mar/2025 16:56:36] "GET / HTTP/1.1" 200 -
+2025-03-28 16:56:48,686 - ERROR - Failed to send emails. Error: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-73970e22496sm1536771b3a.50 - gsmtp')
+2025-03-28 16:56:48,689 - INFO - 127.0.0.1 - - [28/Mar/2025 16:56:48] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 16:56:48,697 - INFO - 127.0.0.1 - - [28/Mar/2025 16:56:48] "GET / HTTP/1.1" 200 -
+2025-03-28 22:27:37,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 22:27:37,605 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 22:27:37,606 - INFO -  * Restarting with stat
+2025-03-28 22:27:37,984 - WARNING -  * Debugger is active!
+2025-03-28 22:27:38,038 - INFO -  * Debugger PIN: 962-150-473
+2025-03-28 22:27:43,722 - INFO - 127.0.0.1 - - [28/Mar/2025 22:27:43] "GET / HTTP/1.1" 200 -
+2025-03-28 22:27:43,790 - INFO - 127.0.0.1 - - [28/Mar/2025 22:27:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-28 22:30:43,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-28 22:30:43,259 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 22:30:43,260 - INFO -  * Restarting with stat
+2025-03-28 22:30:43,614 - WARNING -  * Debugger is active!
+2025-03-28 22:30:43,620 - INFO -  * Debugger PIN: 962-150-473
+2025-03-28 22:31:02,123 - INFO - 127.0.0.1 - - [28/Mar/2025 22:31:02] "GET / HTTP/1.1" 200 -
+2025-03-28 22:31:15,462 - ERROR - Failed to send emails. Error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-739710ccf1fsm2014770b3a.163 - gsmtp')
+2025-03-28 22:31:15,511 - INFO - 127.0.0.1 - - [28/Mar/2025 22:31:15] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-28 22:31:15,526 - INFO - 127.0.0.1 - - [28/Mar/2025 22:31:15] "GET / HTTP/1.1" 200 -
+2025-03-29 01:05:34,429 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 01:05:34,429 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 01:05:34,431 - INFO -  * Restarting with stat
+2025-03-29 01:05:34,814 - WARNING -  * Debugger is active!
+2025-03-29 01:05:34,819 - INFO -  * Debugger PIN: 150-142-968
+2025-03-29 01:09:11,089 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 01:09:11,090 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 01:09:11,091 - INFO -  * Restarting with stat
+2025-03-29 01:09:11,476 - WARNING -  * Debugger is active!
+2025-03-29 01:09:11,478 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 01:09:35,955 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 01:09:35,955 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 01:09:35,957 - INFO -  * Restarting with stat
+2025-03-29 01:09:36,319 - WARNING -  * Debugger is active!
+2025-03-29 01:09:36,322 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 01:10:17,722 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 01:10:17,722 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 01:10:17,724 - INFO -  * Restarting with stat
+2025-03-29 01:10:18,134 - WARNING -  * Debugger is active!
+2025-03-29 01:10:18,139 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:02:16,326 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 10:02:16,327 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 10:02:16,330 - INFO -  * Restarting with stat
+2025-03-29 10:02:16,736 - WARNING -  * Debugger is active!
+2025-03-29 10:02:16,780 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:02:30,992 - INFO -  * Detected change in 'C:\\Users\\VAISHNAVI SHARMA\\Desktop\\email_automation_project\\app.py', reloading
+2025-03-29 10:02:31,058 - INFO -  * Restarting with stat
+2025-03-29 10:02:31,456 - WARNING -  * Debugger is active!
+2025-03-29 10:02:31,460 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:03:03,839 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 10:03:03,840 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 10:03:03,842 - INFO -  * Restarting with stat
+2025-03-29 10:03:04,172 - WARNING -  * Debugger is active!
+2025-03-29 10:03:04,174 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:03:18,966 - INFO - 127.0.0.1 - - [29/Mar/2025 10:03:18] "GET / HTTP/1.1" 200 -
+2025-03-29 10:03:19,115 - INFO - 127.0.0.1 - - [29/Mar/2025 10:03:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-29 10:04:01,532 - INFO - 127.0.0.1 - - [29/Mar/2025 10:04:01] "[32mPOST /send_email HTTP/1.1[0m" 302 -
+2025-03-29 10:04:01,547 - INFO - 127.0.0.1 - - [29/Mar/2025 10:04:01] "GET / HTTP/1.1" 200 -
+2025-03-29 10:07:10,824 - INFO - 127.0.0.1 - - [29/Mar/2025 10:07:10] "GET / HTTP/1.1" 200 -
+2025-03-29 10:07:45,449 - INFO - 127.0.0.1 - - [29/Mar/2025 10:07:45] "GET / HTTP/1.1" 200 -
+2025-03-29 10:07:47,533 - INFO - 127.0.0.1 - - [29/Mar/2025 10:07:47] "GET / HTTP/1.1" 200 -
+2025-03-29 10:07:56,432 - INFO - 127.0.0.1 - - [29/Mar/2025 10:07:56] "GET / HTTP/1.1" 200 -
+2025-03-29 10:16:32,579 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 10:16:32,580 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 10:16:32,581 - INFO -  * Restarting with stat
+2025-03-29 10:16:32,942 - WARNING -  * Debugger is active!
+2025-03-29 10:16:32,945 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:16:38,444 - INFO - 127.0.0.1 - - [29/Mar/2025 10:16:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:16:38,552 - INFO - 127.0.0.1 - - [29/Mar/2025 10:16:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:16:38,554 - INFO - 127.0.0.1 - - [29/Mar/2025 10:16:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:16:38,622 - INFO - 127.0.0.1 - - [29/Mar/2025 10:16:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=yCroMSdRlpzExvoWbRT7 HTTP/1.1" 200 -
+2025-03-29 10:16:38,634 - INFO - 127.0.0.1 - - [29/Mar/2025 10:16:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:21:25,158 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 10:21:25,158 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 10:21:25,159 - INFO -  * Restarting with stat
+2025-03-29 10:21:25,526 - WARNING -  * Debugger is active!
+2025-03-29 10:21:25,532 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:21:38,238 - INFO - 127.0.0.1 - - [29/Mar/2025 10:21:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:21:38,346 - INFO - 127.0.0.1 - - [29/Mar/2025 10:21:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:21:38,347 - INFO - 127.0.0.1 - - [29/Mar/2025 10:21:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:21:38,369 - INFO - 127.0.0.1 - - [29/Mar/2025 10:21:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1" 200 -
+2025-03-29 10:21:38,384 - INFO - 127.0.0.1 - - [29/Mar/2025 10:21:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:16,210 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-29 10:30:16,211 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 10:30:16,212 - INFO -  * Restarting with stat
+2025-03-29 10:30:16,593 - WARNING -  * Debugger is active!
+2025-03-29 10:30:16,596 - INFO -  * Debugger PIN: 298-383-772
+2025-03-29 10:30:52,510 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:52,542 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:52,544 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:52,561 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:52,577 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,177 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:54,206 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,206 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,230 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,244 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,817 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:54,842 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,843 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,869 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:54,889 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,302 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:55,323 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,326 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,342 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,362 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,486 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:55,505 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,508 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,529 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,544 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,682 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:55,706 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,709 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,735 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,748 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,834 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:55,854 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,854 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,881 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:55,897 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,013 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:56,037 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,042 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,068 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,082 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,190 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:56,219 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,220 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,237 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,252 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,415 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-29 10:30:56,438 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,441 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,476 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=laVjzvraxvSOiIS9uC4L HTTP/1.1[0m" 304 -
+2025-03-29 10:30:56,488 - INFO - 127.0.0.1 - - [29/Mar/2025 10:30:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-29 10:49:19,483 - INFO -  * Detected change in 'C:\\Users\\VAISHNAVI SHARMA\\Desktop\\email_automation_project\\app.py', reloading
+2025-03-29 10:49:19,582 - INFO -  * Restarting with stat

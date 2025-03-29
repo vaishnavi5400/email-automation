@@ -1,0 +1,148 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Automation</title>
+</head>
+<body>
+    <h1>Email Automation</h1>
+    <form action="/send_email" method="post">
+        <label for="email">Recipient Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" name="subject" required>
+        <br>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <br>
+
+        <button type="submit">Send Email</button>
+    </form>
+</body>
+</html> -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Automation</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+        form { display: inline-block; text-align: left; background: #f4f4f4; padding: 20px; border-radius: 10px; }
+        input, textarea { width: 100%; padding: 10px; margin: 10px 0; }
+        button { background: #28a745; color: white; padding: 10px; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Email Automation System</h1>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <p style="color: green;"><strong>{{ message }}</strong></p>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    <form action="/send_email" method="POST">
+        <label>Email:</label>
+        <input type="email" name="email" required>
+        <label>Subject:</label>
+        <input type="text" name="subject" required>
+        <label>Message:</label>
+        <textarea name="message" required></textarea>
+        <button type="submit">Send Email</button>
+    </form>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Scheduler</title>
+</head>
+<body>
+    <h2>Email automation</h2>
+    <form action="/send_email" method="POST" enctype="multipart/form-data">
+        Name: <input type="text" name="name" required><br><br>
+        Email: <input type="email" name="email" required><br><br>
+        Subject: <input type="text" name="subject" required><br><br>
+        Message: <textarea name="message" required></textarea><br><br>
+        Attachment: <input type="file" name="attachment"><br><br>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule an Email</title>
+</head>
+<body>
+    <h2>Schedule an Email</h2>
+
+    <!-- {% with messages = get_flashed_messages(with_categories=True) %}
+        {% if messages %}
+            {% for category, message in messages %}
+            <p style="color: {% if category == 'success' %}green{% else %}red{% endif %};">
+                {{ message }}
+            </p>
+                        {% endfor %}
+        {% endif %}
+    {% endwith %} -->
+
+    <form action="/send_email" method="POST" enctype="multipart/form-data">
+        <label for="name">Name:</label>
+        <input type="text" name="name" required><br>
+
+        <label for="recipient">Recipient Email:</label>
+        <input type="email" name="recipient" required><br>
+
+        <label for="subject">Subject:</label>
+        <input type="text" name="subject" required><br>
+
+        <label for="message">Message:</label>
+        <textarea name="message" required></textarea><br>
+
+        <label for="attachment">Attachment:</label>
+        <input type="file" name="attachment"><br>
+
+        <button type="submit">Send Email</button>
+    </form>
+
+    <h3>Emails from CSV</h3>
+    <button onclick="loadEmails()">Load Emails from CSV</button>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let emailData = JSON.parse('{{ email_data | tojson | safe }}');
+    
+            if (!Array.isArray(emailData)) {
+                console.error("Invalid email data format.");
+                return;
+            }
+    
+            let display = "<ul>";
+            emailData.forEach(email => {
+                display += `<li>${email.Name} - ${email.Recipient} - ${email.Subject}</li>`;
+            });
+            display += "</ul>";
+    
+            document.getElementById("emailList").innerHTML = display;
+        });
+    </script>
+    </body>
+    </html>
+    
+
